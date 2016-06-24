@@ -20,6 +20,7 @@
     
     
     NSLog(@"现在单人测试1次");
+    NSLog(@"版本测试第二次");
 }
 
 - (void)didReceiveMemoryWarning {
