@@ -20,6 +20,7 @@
     
     
     NSLog(@"现在单人测试1次");
+    NSLog(@"啊啊大厦法定");
 }
 
 - (void)didReceiveMemoryWarning {
