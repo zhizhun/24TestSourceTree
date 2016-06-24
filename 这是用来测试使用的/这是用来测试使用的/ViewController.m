@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    NSLog(@"现在单人测试1次");
 }
 
 - (void)didReceiveMemoryWarning {
